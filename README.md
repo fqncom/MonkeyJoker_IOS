@@ -30,7 +30,7 @@
 * Categories --- 类别，对现有系统类和自定义类的扩展
 * Resource   --- 资源库，包括图片，plist文件等
 * Sections   --- app的具体模块
-- xxx（模块）
-- Controller --- 系统控制层，放置ViewController
-- View --- 视图层，代码写的视图均放在这里
-- Model --- 系统中的实体，通过类来描述系统中的一些角色和业务
+  - xxx（模块）
+   - Controller --- 系统控制层，放置ViewController
+   - View --- 视图层，代码写的视图均放在这里
+   - Model --- 系统中的实体，通过类来描述系统中的一些角色和业务
